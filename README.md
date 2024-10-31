@@ -32,7 +32,7 @@ To install and run the Task Tracker application, follow these steps:
 3. Navigate into the project directory:
 
    ```bash
-   cd task-tracker
+   cd go-task-tracker
    ```
 
 ### Build the Application
