@@ -26,7 +26,7 @@ To install and run the Task Tracker application, follow these steps:
 2. Clone the repository using the following command:
 
    ```bash
-   git clone https://github.com/<your-username>/task-tracker.git
+   git clone git@github.com:feelthatvib3/go-task-tracker.git
    ```
 
 3. Navigate into the project directory:
